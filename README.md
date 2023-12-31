@@ -11,16 +11,12 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 ![](https://github-readme-stats.vercel.app/api?username=badrkacimi&theme=swift&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=badrkacimi&theme=swift&hide_border=true)
 
-### ✍️ Random Dev Quote
-
-
+# ✍️ Dev Quote
 > Talk is cheap. Show me the code. ― Linus Torvalds
 
 
-### 😂 Random Dev Meme
+# Meme 
 <img src='./meme.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=badrkacimi&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
