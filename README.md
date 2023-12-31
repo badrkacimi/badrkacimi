@@ -1,6 +1,7 @@
+![](meme.gif) 
+
 # 💫 About Me:
 Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major romance with JavaScript and looking for <br>another one with Generative IA and Rust...<br>
-
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8465978/badr-kacimi) 
@@ -13,9 +14,4 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 # ✍️ Dev Quote
 > Talk is cheap. Show me the code. ― Linus Torvalds
 
-
-# Meme 
-![](meme.gif)
-
----
 [![](https://visitcount.itsvg.in/api?id=badrkacimi&icon=0&color=9)](https://visitcount.itsvg.in)
