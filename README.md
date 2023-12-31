@@ -12,7 +12,7 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 ![](https://github-readme-streak-stats.herokuapp.com/?user=badrkacimi&theme=swift&hide_border=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](Talk is cheap. Show me the code. ― Linus Torvalds)
 
 ### 😂 Random Dev Meme
 <img src='./meme.png' style="height: 400px;"/>
