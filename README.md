@@ -19,7 +19,7 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src='[https://randommeme-five.vercel.app/](https://ifunny.co/picture/just-one-more-feature-before-we-refactor-expeit-building-on-TREmsXTy8?s=cl)' style="height: 400px;"/>
+<img src='./meme.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=badrkacimi&icon=0&color=9)](https://visitcount.itsvg.in)
