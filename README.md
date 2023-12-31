@@ -13,9 +13,9 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 
 ### ✍️ Random Dev Quote
 
-'''
-Talk is cheap. Show me the code. ― Linus Torvalds
-'''
+
+> Talk is cheap. Show me the code. ― Linus Torvalds
+
 
 ### 😂 Random Dev Meme
 <img src='./meme.png' style="height: 400px;"/>
