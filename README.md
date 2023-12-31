@@ -15,6 +15,7 @@ Hello ! I'm Badr a software Engineer,Java enthusiast, <br>having some major roma
 
 
 # Meme 
-![grab-landing-page]([https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif](https://github.com/badrkacimi/badrkacimi/blob/main/meme.gif))
+![](meme.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=badrkacimi&icon=0&color=9)](https://visitcount.itsvg.in)
