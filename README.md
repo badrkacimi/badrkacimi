@@ -1,7 +1,7 @@
 ![](meme.gif) 
 
 # About Me:
-Enthusiastic about software development and devoted to building lasting connections with people<br>
+Senior software Engineer and adaptable technologist committed to building lasting connections with people<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8465978/badr-kacimi) 
