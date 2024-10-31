@@ -1,9 +1,11 @@
 ![](meme.gif) 
 
 ## 🌐 Socials:
-Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
-Medium: https://medium.com/@badrvkacimi
-Quora: https://www.quora.com/profile/Kacimi-Badr
+- Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
+
+- Medium: https://medium.com/@badrvkacimi
+  
+- Quora: https://www.quora.com/profile/Kacimi-Badr
 
 
 # 💻 Tech Stack:
