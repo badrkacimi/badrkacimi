@@ -2,8 +2,9 @@
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8465978/badr-kacimi) 
-[[Medium]](https://medium.com/@badrvkacimi)
-[[Quora]](https://www.quora.com/profile/Kacimi-Badr)
+
+Medium: https://medium.com/@badrvkacimi
+Quora: https://www.quora.com/profile/Kacimi-Badr
 
 
 # 💻 Tech Stack:
