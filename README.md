@@ -1,5 +1,3 @@
-![](meme.gif) 
-
 ## 🌐 Socials:
 - Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
 
