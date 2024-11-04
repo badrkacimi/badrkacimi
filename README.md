@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 - Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
 - LinkedIn :
-  linkedin.com/in/badr-kacimi/
+  https://linkedin.com/in/badr-kacimi/
     
 - Medium: https://medium.com/@badrvkacimi
   
