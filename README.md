@@ -1,6 +1,4 @@
 ## 🌐 Socials:
-- LinkedIn :
-  https://linkedin.com/in/badr-kacimi/
   
 - Medium: https://medium.com/@badrvkacimi
   
