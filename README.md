@@ -6,7 +6,7 @@
   
 - Quora: https://www.quora.com/profile/Kacimi-Badr
 
-- - Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
+- Stack Overflow: https://stackoverflow.com/users/8465978/badr-kacimi
 
 
 # 📊 GitHub Stats:
